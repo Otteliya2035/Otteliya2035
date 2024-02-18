@@ -13,7 +13,7 @@
 
 ## Ссылки:
 
-- [GitHub]([https://github.com/Otteliya2035](https://github.com/Otteliya2035?tab=repositories)/)
+- [GitHub](https://github.com/Otteliya2035?tab=repositories)
 - [Telegram](https://t.me/Otteliya)
 - Статус занятости: открыт к новым возможностям
 
